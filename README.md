@@ -1,5 +1,4 @@
 # budget-app
-# workout-tracker
 
 ## Summary
 In this assignment, we were tasked with building a Budget Progressive Web App that tracks deposits and withdrawals. Each transaction is logged using Mongo Atlas. In the event that the browser is offline, transactions can still be added and they are stored using IndexedDb.
